@@ -1,7 +1,7 @@
 # révolte
 ## révolte is a shell for the Hyprland TWM, including dotfiles, for a responsive, practical and aesthetic interface.
 
-It is built using Quickshell, includes custom configurations for the Kitty and Konsole terminals, the Dolphin file manager, and a Qt theme and qt6ct config file.
+It is built using Quickshell (with Qt and QML + python and bash scripts), and includes custom configurations for the Kitty and Konsole terminals, the Dolphin file manager, and a Qt theme and qt6ct config file.
 
 
 The shell includes modules for input and output volume control, brightness control using ddc and/or brightnessctl, a functional and adaptive system tray and a nice music visualizer, that also doubles as a player controller when hovered.
