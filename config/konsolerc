@@ -1,0 +1,14 @@
+[Desktop Entry]
+DefaultProfile=lachesis.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+MenuBar=Disabled
+
+[SaveHistory Settings]
+Recent URLs[$e]=file:$HOME/Documents
+
+[UiSettings]
+ColorScheme=

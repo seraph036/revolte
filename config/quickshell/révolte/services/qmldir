@@ -1,0 +1,6 @@
+singleton VolumeUtils VolumeUtils.qml
+singleton BrightnessUtils BrightnessUtils.qml
+singleton PopupTracking PopupTracking.qml
+singleton HyprlandUtils HyprlandUtils.qml
+singleton PowerUtils PowerUtils.qml
+singleton PlayerUtils PlayerUtils.qml

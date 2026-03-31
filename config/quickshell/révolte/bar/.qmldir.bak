@@ -1,0 +1,7 @@
+Bar Bar.qml
+SystemIcon SystemIcon.qml
+CurrentWindow CurrentWindow.qml
+DateTime DateTime.qml
+ResourceTray ResourceTray.qml
+SysTray SysTray.qml
+Workspaces Workspaces.qml
